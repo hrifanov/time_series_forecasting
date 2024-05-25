@@ -1,0 +1,8 @@
+*/darts_logs/*
+.DS_Store
+.ipynb_checkpoints/
+**/pickles/
+**/data/
+**/saved_models/
+**/optuna_outputs/
+
